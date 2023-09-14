@@ -3,21 +3,21 @@
 plain='\033[0m'
 
 #စာလုံးအရောင်များ(Server Message)
-red='\e[31m'    #အနီရောင်
-yellow='\e[33m' #အဝါရောင်
-gray='\e[90m'   #မီးခိုးရောင်
-green='\e[92m'  #အစိမ်းရောင်
-blue='\e[94m'   #အပြာရောင်
-magenta='\e[95m'#ပန်းခရမ်းရောင်
-cyan='\e[96m'   #စိမ်းပြာရောင်
-none='\e[0m'    #အရောင်မရှိ
+red='\e[31m'    #Wifi
+yellow='\e[33m' #Password
+gray='\e[90m'   #ကို
+green='\e[92m'  #သူများတွေ
+blue='\e[94m'   #ကို
+magenta='\e[95m'#မပေး
+cyan='\e[96m'   #ပါနဲ့
+none='\e[0m'    #👌👌👌
 
 #Username နှင့် Password ပြောင်းရန်
-username="iam404"
-password="iam404"
+username="NyiWinSein"
+password="nws"
 
 #SSH USER LIMIT သတ်မှတ်ရန်
-sshlimiter="300"
+sshlimiter="30"
 
 #ရက်ကန့်သက်ရန်(Qwiklab အတွက်မို့ 2-DAY ပုံသေထားရပါသည်)
 dias="2"
@@ -28,10 +28,10 @@ dias="2"
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
 servermessage="<h3><font color='red'>
-▬▬▬▬▬▬▬▬✿4▪0▪4✿▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬✿Nyi Win Sein✿▬▬▬▬▬▬▬▬
 </font></h3>
 <h4><font color='cyan'>
-↤↤↤↤↤ GCP SERVER BY ④ ⍤⃝✿④ ↦↦↦↦↦
+↤↤↤↤↤ GCP SERVER BY Nyi Win Sein ↦↦↦↦↦
 </font></h4>
 <h3><font color='red'>
 ▬▬▬▬▬▬▬▬✿4▪0▪4✿▬▬▬▬▬▬▬▬
